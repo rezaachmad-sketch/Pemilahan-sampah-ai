@@ -205,7 +205,13 @@ Confidence       : 92.10%
 ```
 
 ---
+## 🖼️ Tampilan Hasil Program
 
+### Hasil Deteksi Sampah Organik
+![Final Output Organik](output/organik.jpg)
+
+### Hasil Deteksi Sampah Non-Organik
+![Final Output Non-Organik](output/anorganik.jpg)
 ## ✅ Kelebihan Sistem
 
 - Deteksi sampah menggunakan webcam secara realtime
